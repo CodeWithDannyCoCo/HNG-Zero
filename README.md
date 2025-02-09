@@ -1,4 +1,4 @@
-# HNGx Stage Zero Task
+# HNG Stage Zero Task
 
 This is a simple REST API built with Django that returns specific information in JSON format. The API is part of the HNGx internship program Stage Zero task.
 
