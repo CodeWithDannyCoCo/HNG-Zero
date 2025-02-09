@@ -14,7 +14,7 @@ This API provides a single endpoint that returns:
 
 ### Endpoint
 
-- URL: `/api/`
+- URL: `/`
 - Method: `GET`
 - No authentication required
 
@@ -23,7 +23,7 @@ This API provides a single endpoint that returns:
 ```json
 {
   "email": "simplytobs@gmail.com",
-  "current_datetime": "2025-02-09T15:00:49.388802+00:00Z",
+  "current_datetime": "2025-02-09T15:13:47.903395+00:00Z",
   "github_url": "https://github.com/CodeWithDannyCoCo/HNG-Zero.git"
 }
 ```
@@ -68,7 +68,7 @@ This API provides a single endpoint that returns:
    python manage.py runserver
    ```
 
-6. Access the API at `http://localhost:8000/api/`
+6. Access the API at `http://localhost:8000/`
 
 ## Deployment on Render
 
@@ -95,4 +95,4 @@ This API provides a single endpoint that returns:
 
 ## Live Demo
 
-The API is deployed at: [Your Render URL]
+The API is deployed at: https://hng-zero.onrender.com/
